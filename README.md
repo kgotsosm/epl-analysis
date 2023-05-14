@@ -1,7 +1,7 @@
 # English Premier Leage Analysis for Predictor
 
 **This repository contains an analysis of the English Premier League (EPL) aimed at developing a machine learning model to predict the winners of EPL matches. 
-The project incorporates data cleaning, exploratory data analysis, feature engineering, and model training. I did the data cleaning, and analysis as well as preparation for the machine learning portion of the project.
+The project incorporates data cleaning, exploratory data analysis, feature engineering, and model training. I did the data cleaning, and analysis as well as preparation for the machine learning portion of the project, which was completed with the assistance of various online sources.
 The goal is to provide insights into the EPL and create a reliable predictor for future matches.**
 
 # Table of Contents
