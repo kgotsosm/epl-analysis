@@ -17,7 +17,7 @@ To get started with the English Premier League Analysis for Predictor, follow th
 
 ### Clone this repository:
 
-git clone https://github.com/your-username/english-premier-league-analysis.git
+git clone https://github.com/your-username/epl-analysis.git
 
 
 ### Data
